@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "MediBooking Backend",
   "main": "index.js",
-  "scripts": {
-    "test":"node test.js",
-    "start": "node index.js",
-    "prepare": "husky"
+ "scripts": {
+    "test": "node test.js",
+    "start": "node src/index.js", 
+    "prepare": "husky install"  
   },
   "repository": {
     "type": "git",
