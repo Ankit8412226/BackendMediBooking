@@ -1,0 +1,26 @@
+{
+  "name": "backendmedibooking",
+  "version": "1.0.0",
+  "description": "MediBooking Backend",
+  "main": "index.js",
+  "scripts": {
+    "test":"node test.js",
+    "start": "node index.js",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit8412226/BackendMediBooking.git"
+  },
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit8412226/BackendMediBooking/issues"
+  },
+  "homepage": "https://github.com/Ankit8412226/BackendMediBooking#readme",
+  "devDependencies": {
+    "eslint": "^9.20.1",
+    "husky": "^9.1.7",
+    "prettier": "^3.5.0"
+  }
+}
